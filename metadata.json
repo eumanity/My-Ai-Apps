@@ -1,0 +1,7 @@
+{
+  "name": "YT Outlier Explorer",
+  "description": "An advanced YouTube channel analyzer that identifies outlier videos, analyzes performance trends, and extracts key insights for content strategy.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
